@@ -1,4 +1,4 @@
-### Frontend Mobile/Web Developer & Coffee Addict ☕️
+# Frontend Mobile/Web Developer & Coffee Addict ☕️
 
 Hello! I’m a front-end developer from America. Originally, I was a 2D illustrator and animator, and have always had a strong interest in being creative. And that hasn’t changed, no matter if that's working frame by frame or coding line by line. 
 
