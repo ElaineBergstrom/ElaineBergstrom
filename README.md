@@ -11,11 +11,11 @@ JS, TypeScript, React, React Native, Redux, Mobx, SASS, Styled Components, Node.
 
 ## Portfolio 💼
 
-[Link to my Portfolio (https://www.elaine-bergstrom.com/)]
+Link to my Portfolio (https://www.elaine-bergstrom.com/)
 
 ## Contact 📧
 
-[Elainebergstrom26@gmail.com(Elainebergstrom26@gmail.com)]
+Elainebergstrom26@gmail.com
 
 ## Random Fact
 
